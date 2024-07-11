@@ -1,1 +1,1 @@
-# Apple-fruit-shop-landing-page
+# Apple-fruit-store-landing-page
